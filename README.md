@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HamzaFareedBaig
-- 👀 I’m interested in Web development and cross platform applications
+- 👀 I’m passionate about Web development, Ai, and cross platform applications
 - 🌱 I’m currently learning cross platform application and Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me . hamzabaig.ds@gmail.com
